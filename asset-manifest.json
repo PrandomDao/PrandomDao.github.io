@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.75b43a9b.chunk.css",
-    "main.js": "/static/js/main.fe91814a.chunk.js",
-    "main.js.map": "/static/js/main.fe91814a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6bfd967d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6bfd967d.js.map",
-    "static/js/2.474f3518.chunk.js": "/static/js/2.474f3518.chunk.js",
-    "static/js/2.474f3518.chunk.js.map": "/static/js/2.474f3518.chunk.js.map",
-    "static/js/3.96dd3469.chunk.js": "/static/js/3.96dd3469.chunk.js",
-    "static/js/3.96dd3469.chunk.js.map": "/static/js/3.96dd3469.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.75b43a9b.chunk.css.map": "/static/css/main.75b43a9b.chunk.css.map",
-    "static/js/2.474f3518.chunk.js.LICENSE.txt": "/static/js/2.474f3518.chunk.js.LICENSE.txt",
-    "static/media/logo.b5a2c61b.png": "/static/media/logo.b5a2c61b.png",
-    "static/media/mining.c6f6f7d5.svg": "/static/media/mining.c6f6f7d5.svg",
-    "static/media/telegram.fb0d6c9e.svg": "/static/media/telegram.fb0d6c9e.svg"
+    "main.css": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/css/main.75b43a9b.chunk.css",
+    "main.js": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/js/main.d929f532.chunk.js",
+    "main.js.map": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/js/main.d929f532.chunk.js.map",
+    "runtime-main.js": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/js/runtime-main.bbed0083.js",
+    "runtime-main.js.map": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/js/runtime-main.bbed0083.js.map",
+    "static/js/2.bcec43dc.chunk.js": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/js/2.bcec43dc.chunk.js",
+    "static/js/2.bcec43dc.chunk.js.map": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/js/2.bcec43dc.chunk.js.map",
+    "static/js/3.96dd3469.chunk.js": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/js/3.96dd3469.chunk.js",
+    "static/js/3.96dd3469.chunk.js.map": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/js/3.96dd3469.chunk.js.map",
+    "index.html": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/index.html",
+    "static/css/main.75b43a9b.chunk.css.map": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/css/main.75b43a9b.chunk.css.map",
+    "static/js/2.bcec43dc.chunk.js.LICENSE.txt": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/js/2.bcec43dc.chunk.js.LICENSE.txt",
+    "static/media/logo.b5a2c61b.png": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/media/logo.b5a2c61b.png",
+    "static/media/mining.c6f6f7d5.svg": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/media/mining.c6f6f7d5.svg",
+    "static/media/telegram.fb0d6c9e.svg": "/gh/PrandomDao/PrandomDao.github.io@1.0.1/static/media/telegram.fb0d6c9e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6bfd967d.js",
-    "static/js/2.474f3518.chunk.js",
+    "static/js/runtime-main.bbed0083.js",
+    "static/js/2.bcec43dc.chunk.js",
     "static/css/main.75b43a9b.chunk.css",
-    "static/js/main.fe91814a.chunk.js"
+    "static/js/main.d929f532.chunk.js"
   ]
 }
